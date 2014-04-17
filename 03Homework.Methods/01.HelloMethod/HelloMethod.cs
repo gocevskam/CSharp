@@ -4,7 +4,7 @@ class HelloMethod
 {
     static void Print()
     {
-        Console.WriteLine("Hello Peter!");
+        Console.WriteLine("Hello Dear Peter!");
     }  
 
     static void Main()
